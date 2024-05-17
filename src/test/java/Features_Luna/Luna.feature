@@ -1,5 +1,7 @@
 Feature: Patient Information
 
+
+
   Scenario: Providing Patient Information
     Given a patient wants to provide their information
     When User enter their first name as "Auto"
